@@ -1,0 +1,17 @@
+Scenario:
+You are a teacher and you are at the end of the semester. It is time for you to submit grades
+for you students! if they average more than a 78%, then they graduate! The only problem is that
+you have 1000 students and to do all of this math by hand would take forever. Luckily, you 
+thought ahead and documentated all of the grades in a csv file. You've decided to write a program
+that parses out the data from the csv file and prints out the averages of the students and if they
+are eligible for a diploma.
+
+Directions:
+	- Learn what two dimensional lists are
+	- write a program to ingest the student grades from the file, print out the averages per student, and if they are eligible to graduate
+	- once you are done with your program, open a pull request to the repo and ping Izzy when you're done
+
+Hints, Dos, & Don'ts:
+	- In your program, read in the CSV file just as you would any other file, and store data in a 2d List
+	- You are able to use built in python methods for this one, but NOT an external csv parsing module
+	- Don't use a python module that parses out csv for you. I want you to do this manually
